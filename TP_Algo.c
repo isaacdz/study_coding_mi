@@ -535,8 +535,8 @@ void welcom () {
 printf("#########################Welcom######################\n");
 printf("#=======================TP Algo=====================#\n");
 printf("#[+]ce program a ete code par:                      #\n");
-printf("#    LAHLOUK ISHAK  S:1  G:2   MAT:201400007549     #\n");
-printf("#    DECHICHA DAHMANE S:1 G:2  MAT:201400007984     #\n");
+printf("#    LAHLOUK ISHAK  S:1  G:2                         #\n");
+printf("#    DECHICHA DAHMANE S:1 G:2                         #\n");
 printf("#####################################################\n");
 printf("#un programme Qui cree et Gere l'index d'un Fichier #\n");
 printf("#####################################################\n\n\n\n");
